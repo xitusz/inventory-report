@@ -80,7 +80,7 @@
 
 * Entre na pasta do repositório que você clonou:
   ```sh
-    cd job-insights
+    cd inventory-report
   ```
 
 * Crie o ambiente virtual
